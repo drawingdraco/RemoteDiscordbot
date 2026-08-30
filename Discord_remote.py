@@ -8,7 +8,7 @@ from Discord_remote_KeyCodes import *
 import discord
 ##################### GAME VARIABLES #####################
 #replace 'your bot token' with your actual bot token
-TOKEN = 'your bot token'
+TOKEN = 'Your bot token here'
 #####################BOT SETUP#####################
 
 # Set up intents (required for message content access)
