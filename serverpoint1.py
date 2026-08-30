@@ -9,7 +9,7 @@ import sys
 
 ##################### GAME VARIABLES #####################
 #replace 'your bot token' with your actual bot token
-TOKEN = 'MTU0MjMxNzA1Njg3NDExOTI0OA.GA64iE.qwSf3fWVZOFTrYba2rf1DNB6tI-pIRa1AyAFVw'
+TOKEN = 'BOT TOKEN HERE'
 #####################BOT SETUP#####################
 # Set up intents (required for message content access)
 intents = discord.Intents.default()
